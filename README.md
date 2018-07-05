@@ -1,2 +1,4 @@
-# Platzi-github
-Curso Git/Github You can do it !
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
